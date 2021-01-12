@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1545434177 source:c:\users\han\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v2.0\Курсовая работа\n1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1545475966 source:c:\n1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1576810273 source:e:\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sentence.h"
+	"matrix.h"
+
+1610372558 e:\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\sentence.h
+
+1576810211 e:\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\matrix.h
+
+1574640948 source:c:\users\user\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"sentence.h"
+	"matrix.h"
+
+1575538197 c:\users\user\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\sentence.h
+
+1575538200 c:\users\user\yandexdisk\СТАНКИН\Структуры и алгоритмы обработки данных\3 семестр v3.0\Курсовая работа\n1\matrix.h
+
